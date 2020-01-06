@@ -2,7 +2,7 @@
 
 class MyRegression():
 	def __init__(self):
-		print("hoge hoge")
+		print("hoge hoge hoge")
 		pass
 
 
